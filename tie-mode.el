@@ -7,6 +7,8 @@
 ;; Adapted-By: 
 ;; Keywords: languages
 
+;; License: GPL
+
 ;; Adapted from Perl code editing commands 'perl-mode.el', Copyright
 ;; 1987 by the Free Software Foundation, under terms of its General
 ;; Public License.
